@@ -1,2 +1,2 @@
 # VarPredict_test_data
-Test data for VarPredict pipeline
+Test data for the VarPredict package
